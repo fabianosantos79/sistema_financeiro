@@ -4,3 +4,5 @@ Teste de commit
 novo texto
 
 AHAHAH
+
+TERCEIRO TEXTO
